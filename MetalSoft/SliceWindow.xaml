@@ -1,0 +1,8 @@
+﻿<Window x:Class="MetalSoft.SliceWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="SliceWindow" Width="auto" Height="auto">
+    <Grid>
+        <Image Name="image"></Image>
+    </Grid>
+</Window>

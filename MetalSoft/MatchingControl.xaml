@@ -1,0 +1,31 @@
+﻿<UserControl x:Class="MetalSoft.MatchingControl"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300" Margin="5" MouseRightButtonUp="onMouseRightButtonUp">
+    <Grid MouseRightButtonUp="onMouseRightButtonUp">
+        <Border Name="bFrame" BorderThickness="1" BorderBrush="Black" CornerRadius="3" MouseRightButtonUp="onMouseRightButtonUp" >
+    		<Border.Effect>
+    			<DropShadowEffect/>
+    		</Border.Effect>
+            <Grid Margin="5" MouseRightButtonUp="onMouseRightButtonUp">
+    			<Grid.RowDefinitions>
+    				<RowDefinition/>
+    				<RowDefinition Height="auto"/>
+					<RowDefinition/>
+    			</Grid.RowDefinitions>
+                
+                <Grid Background="#3311FC00">
+                <Image Name="iPattern" Grid.Row="0" MouseRightButtonUp="onMouseRightButtonUp"/>
+                </Grid>
+                <Separator Grid.Row="1" MouseRightButtonUp="onMouseRightButtonUp" />
+                <Grid Background="White" Grid.Row="2">
+                <Image Name="iMatched" Grid.Row="2" MouseRightButtonUp="onMouseRightButtonUp"/>
+                </Grid>
+
+            </Grid>
+    	</Border>
+    </Grid>
+</UserControl>

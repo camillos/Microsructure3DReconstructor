@@ -1,0 +1,42 @@
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\bin\Debug\MetalSoft.exe.config
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\bin\Debug\MetalSoft.exe
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\bin\Debug\MetalSoft.pdb
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.csprojResolveAssemblyReference.cache
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MainWindow.baml
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MatchingControl.baml
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MainWindow.g.cs
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MatchingControl.g.cs
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\App.g.cs
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft_MarkupCompile.cache
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.g.resources
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.Properties.Resources.resources
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.csproj.GenerateResource.Cache
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.exe
+C:\Users\camillos\documents\visual studio 2012\Projects\MetalSoft\MetalSoft\obj\Debug\MetalSoft.pdb
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\GetDzWindow.baml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MainWindow.baml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MatchingControl.baml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\SliceWindow.baml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\GetDzWindow.g.cs
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MainWindow.g.cs
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MatchingControl.g.cs
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\SliceWindow.g.cs
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\App.g.cs
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft_MarkupCompile.cache
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.g.resources
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.Properties.Resources.resources
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.csproj.GenerateResource.Cache
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.exe.manifest
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.pdb
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MetalSoft.exe.config
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MetalSoft.exe.manifest
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MetalSoft.application
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MetalSoft.exe
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MetalSoft.pdb
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MoreLinq.dll
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\bin\Debug\MoreLinq.xml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.application
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.exe
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.csprojResolveAssemblyReference.cache
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\LoadWindow.baml
+C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\LoadWindow.g.cs

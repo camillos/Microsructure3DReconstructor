@@ -1,0 +1,2 @@
+1. Plik nalezy rozpoakowac do sciezki w której powinien zostac zainstalowany
+2. Uruchomic plik setup.exe
