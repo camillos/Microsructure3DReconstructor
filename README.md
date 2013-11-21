@@ -14,8 +14,11 @@ Użycie:
 
 3. Posprawdzać czy dobrze dopasowało:
  a). zielone pole w kontrolkach to wzór (ziarno z górnego przekroju)
+ 
  b). białe to ziarno które do niego jest dopasowane (z dolnego)
+ 
  c). jeśli któreś z dopasowań jest błędne, to klikając prawym zaznaczamy go i klikając drugi raz prawym w ziarno które powinno być do naszego wzorca przypasowane zamieniają sie miejscami
+ 
  d). jeśli brakuje nam kontenerów możemy dodać pusty
  
 4. Jeśli dopasowania są ok (lub mamy to gdzieś) klikamy Następny co powoduje zejście w dół mikrostruktury i sprawdzenie następnych przekroi
