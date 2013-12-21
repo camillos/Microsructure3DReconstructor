@@ -40,3 +40,6 @@ C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.exe
 C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\MetalSoft.csprojResolveAssemblyReference.cache
 C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\LoadWindow.baml
 C:\Users\camillos\Desktop\MetalSoft\MetalSoft\obj\Debug\LoadWindow.g.cs
+C:\Users\camillos\Documents\GitHub\Microsructure3DReconstructor\MetalSoft\bin\Debug\MetalSoft.exe.config
+C:\Users\camillos\Documents\GitHub\Microsructure3DReconstructor\MetalSoft\obj\Debug\MetalSoft.exe
+C:\Users\camillos\Documents\GitHub\Microsructure3DReconstructor\MetalSoft\obj\Debug\MetalSoft.pdb
